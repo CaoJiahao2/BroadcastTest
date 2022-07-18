@@ -12,5 +12,4 @@
         android:text="Send Broadcast"
         android:gravity="center_horizontal"
         android:layout_margin="20dp"/>
-
 </LinearLayout>
